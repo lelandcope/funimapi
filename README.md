@@ -1,0 +1,2 @@
+# funimapi
+Unofficial Funimation API
